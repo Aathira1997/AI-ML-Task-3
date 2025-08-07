@@ -48,4 +48,3 @@ Regression plot: Actual vs Predicted values.
 
 
 
-Ask ChatGPT
